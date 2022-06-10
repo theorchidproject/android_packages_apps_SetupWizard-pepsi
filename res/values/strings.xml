@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Setup Wizard</string>
-    <string name="os_name" translatable="false">LineageOS</string>
+    <string name="os_name" translatable="false">PepsiOs</string>
 
     <string name="lineage_wizard_script_uri" translatable="false">android.resource://org.lineageos.setupwizard/raw/lineage_wizard_script</string>
     <string name="lineage_wizard_script_user_uri" translatable="false">android.resource://org.lineageos.setupwizard/raw/lineage_wizard_script_user</string>
@@ -52,7 +52,7 @@
 
     <string name="backup_data_summary"><b>Back up</b> app data, Wi-Fi passwords, and other settings to Google servers</string>
 
-    <string name="other_services_summary">These services put Google to work for you, and you can turn them on or off at any time. Data will be used in accordance with Google\'s <xliff:g id="name" example="Privacy Policy">%s</xliff:g>.</string>
+    <string name="other_services_summary">These services put Microg to work for you, and you can turn them on or off at any time. Data will be used in accordance with Google\'s <xliff:g id="name" example="Privacy Policy">%s</xliff:g>.</string>
     <string name="location_services_summary">Location services allows system and third party apps to gather and use data such as your approximate location. For example, an app may use your approximate location to locate nearby coffee shops.</string>
     <string name="location_access_summary"><b>Allow apps that have asked your permission</b> to use your location information. This may include your current location and past locations.</string>
 
@@ -68,11 +68,11 @@
     <string name="emergency_call">Emergency call</string>
     <string name="accessibility_settings">Accessibility settings</string>
 
-    <string name="setup_services">LineageOS features</string>
-    <string name="services_pp_explanation">These services work for you to extend the capabilities of your device. Data will be used in accordance with <xliff:g id="name" example="LineageOS">%1$s</xliff:g>\'s privacy policy.</string>
+    <string name="setup_services">PepsiOs features</string>
+    <string name="services_pp_explanation">These services work for you to extend the capabilities of your device. Data will be used in accordance with <xliff:g id="name" example="PepsiOs">%1$s</xliff:g>\'s privacy policy.</string>
     <string name="services_find_privacy_policy">You can read the privacy policy on another device by visiting <xliff:g id="uri" example="https://lineageos.org/legal">%1$s</xliff:g></string>
-    <string name="services_help_improve_cm">Help improve <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
-    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> by automatically sending diagnostic and usage data to LineageOS. This information can’t be used to identify you and lends a hand to teams working on things like battery life, app performance, and new <xliff:g id="name" example="LineageOS">%2$s</xliff:g> features.</string>
+    <string name="services_help_improve_cm">Help improve <xliff:g id="name" example="PepsiOs">%s</xliff:g></string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve PepsiOs">%1$s</xliff:g> by automatically sending diagnostic and usage data to PepsiOs. This information can’t be used to identify you and lends a hand to teams working on things like battery life, app performance, and new <xliff:g id="name" example="PepsiOs">%2$s</xliff:g> features.</string>
     <string name="services_os_nav_keys_label"><b>Use on screen navigation keys</b> instead of hardware keys.</string>
 
     <string name="setup_unlock">Unlock</string>
@@ -103,13 +103,13 @@
 
     <!-- Backup Restore -->
     <string name="intro_restore_title">Restore apps and data</string>
-    <string name="intro_restore_subtitle" product="tablet">If you have a backup from your last LineageOS tablet, you can restore it here.</string>
-    <string name="intro_restore_subtitle" product="default">If you have a backup from your last LineageOS phone, you can restore it here.</string>
+    <string name="intro_restore_subtitle" product="tablet">If you have a backup from your last PepsiOs tablet, you can restore it here.</string>
+    <string name="intro_restore_subtitle" product="default">If you have a backup from your last PepsiOs phone, you can restore it here.</string>
     <string name="intro_restore_button">Restore from backup</string>
 
     <!-- Update Recovery -->
-    <string name="update_recovery_title">Update Lineage Recovery</string>
-    <string name="update_recovery_description">Updates Lineage Recovery on first boot subsequent to every update.</string>
+    <string name="update_recovery_title">Update PepsiOs Recovery</string>
+    <string name="update_recovery_description">Updates PepsiOs Recovery on first boot subsequent to every update.</string>
     <string name="update_recovery_warning">Recovery will be updated as soon as you finish the setup. If you wish to keep it intact, disable this feature.</string>
-    <string name="update_recovery_setting">Update Lineage Recovery alongside the OS</string>
+    <string name="update_recovery_setting">Update PepsiOs Recovery alongside the OS</string>
 </resources>
